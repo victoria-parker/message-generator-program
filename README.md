@@ -11,4 +11,4 @@ Built with
 * JavaScript
 
 ## Demo
-available soon
+https://victoria-parker.github.io/name-generator-program/
